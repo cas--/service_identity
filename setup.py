@@ -34,8 +34,8 @@ CLASSIFIERS = [
 ]
 INSTALL_REQUIRES = [
     "attrs>=16.0.0",
-    "pyasn1",
     "pyasn1-modules",
+    "pyasn1",
     "pyopenssl>=0.12",
 ]
 EXTRAS_REQUIRE = {
